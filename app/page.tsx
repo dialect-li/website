@@ -5,7 +5,6 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center">
       <main className="flex flex-col gap-8 min-h-screen w-full max-w-3xl items-start  py-32 px-16 bg-white">
         <Image
-          className="dark:invert"
           src="/logo.svg"
           alt="Dialect.li Logo"
           width={100}
